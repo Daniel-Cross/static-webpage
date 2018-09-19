@@ -1,0 +1,26 @@
+.jumbotron {
+  background-image: url(../images/hero.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  color: white;
+  font-weight: bold;
+  padding-top: 200px;
+}
+
+.display-4 {
+  font-size: 60px;
+}
+
+.col {
+  margin-left: 150px;
+}
+
+.btn {
+  border-radius: 40px;
+}
+
+.full-stop {
+  color: aqua;
+  font-size: 70px;
+}
