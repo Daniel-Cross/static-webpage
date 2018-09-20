@@ -5,9 +5,9 @@ const News = () => {
   return (
     <div className="News">
       <div className="news-body">
-        <div className="news-header col col-lg-3">Latest News</div>
-        <div className="news-posts col-12">
-          <div className="news-content col-lg-4">
+        <div className="news-header">Latest News</div>
+        <div className="news-posts">
+          <div className="news-content">
             <i className="far fa-newspaper" /> Press Release
             <span className="date"> Jan 8, 2018</span>
             <div className="news-headline">
@@ -21,7 +21,7 @@ const News = () => {
               Consumer News <span className="tag">5G</span>
             </div>
           </div>
-          <div className="news-content col-lg-4">
+          <div className="news-content">
             <i className="far fa-newspaper" /> Press Release
             <span className="date"> Jan 8, 2018</span>
             <div className="news-headline">
@@ -33,7 +33,7 @@ const News = () => {
             </div>
             <div className="news-tags">
               5G <span className="tag">Consumer News</span>
-              <span className="tag">Infrastructure</span>
+              Infrastructure
             </div>
           </div>
         </div>

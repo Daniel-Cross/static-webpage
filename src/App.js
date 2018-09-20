@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import Navbar from './components/Navbar';
 import Links from './components/Links';
 import Hero from './components/Hero';
-import News from './components/News';
-import Reports from './components/Reports';
+import NewsSection from './components/NewsSection';
 import './App.css';
 
 class App extends Component {
@@ -13,8 +12,7 @@ class App extends Component {
         <Navbar />
         <Links />
         <Hero />
-        <News />
-        <Reports />
+        <NewsSection />
       </div>
     );
   }
