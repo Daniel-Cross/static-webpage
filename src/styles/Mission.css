@@ -1,0 +1,30 @@
+.mission {
+  background-color: rgb(220, 255, 220);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 550px;
+  color: rgb(19, 19, 19);
+  font-weight: bold;
+  padding-top: 150px;
+}
+
+.display-4 {
+  font-size: 60px;
+}
+
+.col {
+  margin-left: 150px;
+}
+
+.btn {
+  border-radius: 40px;
+}
+
+.full-stop {
+  color: aqua;
+  font-size: 70px;
+}
+
+.mission-text {
+  color: rgb(173, 173, 173);
+}

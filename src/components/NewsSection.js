@@ -10,7 +10,7 @@ const NewsSection = () => {
       <div className="col-lg-8 news-section">
         <News />
         <NewsMain />
-        <News />
+        <NewsMain />
       </div>
       <div className="col-lg-4 reports-section">
         <Reports />
